@@ -1,0 +1,1 @@
+This is a Power BI Dashboard that utilises the resale .csv to assist potential resale HDB buyers (specifically parents) to understand which flats are the best for their dollar in terms of distance from schools, MRT and checking for price per sqm.
